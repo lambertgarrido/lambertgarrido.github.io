@@ -2,13 +2,13 @@
 
 In the image below, the 5 FAANG stocks are plotted from May 2012. In order to better see the trends, the stock data is passed through a filter to remove some of the noise. The resulting plot (denoted as filtered in plot legend) shows more clearly the trends of each stock.
 
-The plot is interactive with 3 buttons on the lower left.
+This is an interactive plot. With the mouse cursor over the plot, a menu with 3 buttons appears on the lower left.
 
 1. Click on home button to reset plot. 
 2. Click on compass button to move around the plot. 
 3. Click on magnifying glass button to zoom in.
 
-By zooming in to a specific time frame, once can better view the gains or losses for a specific stock.
+By zooming in to a specific time frame, one can better view the gains or losses for a specific stock.
 
 <div id="fig_el123140481598381808130712755"></div>
 <script>
