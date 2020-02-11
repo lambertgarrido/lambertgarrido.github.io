@@ -1,9 +1,5 @@
 ## FAANG Stock Analysis
 
-You can use the [editor on GitHub](https://github.com/lambertgarrido/lambertgarrido.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 In the image below, the 5 FAANG stocks are plotted from May 2012. In order to better see the trends, the stock data is passed through a filter to remove some of the noise. The resulting plot (denoted as filtered in plot legend) shows more clearly the trends of each stock.
 
 The plot is interactive with 3 buttons on the lower left.
